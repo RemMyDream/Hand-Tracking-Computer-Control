@@ -97,13 +97,3 @@ You can customize a few settings for a better experience (default values are usu
 
 👉 Make sure your gesture happens after the cooldown and within this collection time.
 
-## 👥 Contributors
-
-Thanks to these awesome people who contributed:
-
-[![Contributors](https://img.shields.io/github/contributors/sfatew/Hand-Tracking-Computer-Control.svg)](https://github.com/sfatew/Hand-Tracking-Computer-Control/graphs/contributors)
-
----
-
-⭐ If you like this project, please **give it a star** on GitHub!  
-[![GitHub stars](https://img.shields.io/github/stars/sfatew/Hand-Tracking-Computer-Control?style=social)](https://github.com/sfatew/Hand-Tracking-Computer-Control/stargazers)
