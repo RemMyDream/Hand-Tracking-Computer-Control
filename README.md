@@ -1,4 +1,4 @@
-# Hand-Tracking-Youtbe-Control
+# Hand-Tracking-Computer-Control
 
 This project leverages computer vision techniques to track hand motion and control a computer interface in a similar manner to a touchpad.
 
@@ -28,12 +28,12 @@ You can download the dataset from Kaggle:
 - Python 3.9 to 3.12
 - Webcam connected
 
-Follow these steps to set up and run the **Hand-Tracking-Youtube-Control** project:
+Follow these steps to set up and run the **Hand-Tracking-Computer-Control** project:
 
 ### 1. **Clone the repository and install the required packages**  
 Open your terminal and run:
 ```bash
-git clone https://github.com/sfatew/Hand-Tracking-Youtube-Control.git
+git clone https://github.com/sfatew/Hand-Tracking-Computer-Control.git
 cd Hand-Tracking-Computer-Control
 
 # We recommend creating a virtual environment before installing dependencies.
@@ -65,7 +65,7 @@ python ui.py
 > ⏳ Note: It may take about 2 minutes for the UI to appear due to the model loading time. We're working on improving this delay.
 
 ## 🎮 Usage
-After the UI launches, open YouTube in your browser. Control playback hands-free using your gestures — no keyboard or mouse needed!
+After the UI launches, open Computer in your browser. Control playback hands-free using your gestures — no keyboard or mouse needed!
 
 These are the actions users can perform:
 
